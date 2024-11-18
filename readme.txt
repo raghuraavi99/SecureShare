@@ -1,4 +1,13 @@
-To view api documentation
+SecureShare Application:
+
+
+Features:
+
+
+
+How to Run this project ?
+
+- To view api documentation
 
 1. Run the api locally and visit http://localhost:8080/swagger-ui/#/
 
